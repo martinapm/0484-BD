@@ -71,19 +71,18 @@ El repositorio incluye los materiales y prácticas correspondientes a las siguie
 
 ## 📂 Estructura del Proyecto
 
+```plaintext
 ├── Unidad_03/
-│ ├── MER/
-│ └── Scripts_MySQL/
-│
+│   ├── MER/
+│   └── Scripts_MySQL/
 ├── Unidad_04/
-│ └── Consultas_MySQL/
-│
+│   └── Consultas_MySQL/
 ├── Unidad_05/
-│ ├── Consultas_MySQL/
-│ └── Schema_MariaDB/
-│
+│   ├── Consultas_MySQL/
+│   └── Schema_MariaDB/
 └── Unidad_07/
-└── Consultas_MongoDB/
+    └── Consultas_MongoDB/
+```
 
 ---
 
