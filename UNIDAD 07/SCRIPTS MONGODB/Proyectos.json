@@ -1,0 +1,838 @@
+[
+  {
+    "_id":"proy001",
+    "nombre":"Auditoría Interna #1",
+    "descripcion":"Proyecto relacionado con análisis de sistemas.",
+    "fecha_inicio":"2024-07-02",
+    "fecha_fin_estimada":"2025-08-03",
+    "empleados_asignados":[
+      "sofía.torres@empresa.com",
+      "natalia.ruiz@empresa.com",
+      "pablo.vega@empresa.com",
+      "carlos.lópez@empresa.com",
+      "carlos.martínez@empresa.com",
+      "miguel.torres@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy002",
+    "nombre":"Auditoría Interna #2",
+    "descripcion":"Proyecto relacionado con desarrollo de sistemas.",
+    "fecha_inicio":"2024-05-15",
+    "fecha_fin_estimada":"2025-11-26",
+    "empleados_asignados":[
+      "miguel.torres@empresa.com",
+      "luis.vega@empresa.com",
+      "carlos.herrera@empresa.com",
+      "carlos.ramírez@empresa.com",
+      "jorge.ramírez@empresa.com",
+      "ana.vega@empresa.com",
+      "carlos.ramírez@empresa.com",
+      "miguel.herrera@empresa.com",
+      "sofía.ramírez@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy003",
+    "nombre":"Rediseño Web #3",
+    "descripcion":"Proyecto relacionado con implementación de sistemas.",
+    "fecha_inicio":"2024-04-15",
+    "fecha_fin_estimada":"2025-11-09",
+    "empleados_asignados":[
+      "miguel.lópez@empresa.com",
+      "pablo.ruiz@empresa.com",
+      "sofía.ramírez@empresa.com",
+      "miguel.ruiz@empresa.com",
+      "elena.ruiz@empresa.com",
+      "luis.lópez@empresa.com",
+      "miguel.torres@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy004",
+    "nombre":"Sistema de Inventario #4",
+    "descripcion":"Proyecto relacionado con análisis de sistemas.",
+    "fecha_inicio":"2024-06-01",
+    "fecha_fin_estimada":"2025-04-06",
+    "empleados_asignados":[
+      "miguel.martínez@empresa.com",
+      "carlos.martínez@empresa.com",
+      "elena.fernández@empresa.com",
+      "miguel.fernández@empresa.com",
+      "carlos.ramírez@empresa.com",
+      "miguel.torres@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy005",
+    "nombre":"Plataforma e-learning #5",
+    "descripcion":"Proyecto relacionado con desarrollo de sistemas.",
+    "fecha_inicio":"2024-06-07",
+    "fecha_fin_estimada":"2025-05-11",
+    "empleados_asignados":[
+      "carlos.ramírez@empresa.com",
+      "elena.fernández@empresa.com",
+      "sofía.santos@empresa.com",
+      "natalia.ruiz@empresa.com",
+      "miguel.gómez@empresa.com",
+      "miguel.lópez@empresa.com",
+      "pablo.herrera@empresa.com",
+      "miguel.ramírez@empresa.com",
+      "pablo.ramírez@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy006",
+    "nombre":"Mejora SEO #6",
+    "descripcion":"Proyecto relacionado con optimización de sistemas.",
+    "fecha_inicio":"2024-03-29",
+    "fecha_fin_estimada":"2025-06-12",
+    "empleados_asignados":[
+      "carlos.ramírez@empresa.com",
+      "miguel.fernández@empresa.com",
+      "ana.gómez@empresa.com",
+      "pablo.vega@empresa.com",
+      "luis.santos@empresa.com",
+      "pablo.martínez@empresa.com",
+      "jorge.vega@empresa.com",
+      "miguel.gómez@empresa.com",
+      "luis.herrera@empresa.com",
+      "carlos.ramírez@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy007",
+    "nombre":"App móvil clientes #7",
+    "descripcion":"Proyecto relacionado con optimización de sistemas.",
+    "fecha_inicio":"2024-08-23",
+    "fecha_fin_estimada":"2025-02-22",
+    "empleados_asignados":[
+      "elena.fernández@empresa.com",
+      "elena.ruiz@empresa.com",
+      "pablo.vega@empresa.com",
+      "laura.martínez@empresa.com",
+      "carlos.ramírez@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy008",
+    "nombre":"Plataforma e-learning #8",
+    "descripcion":"Proyecto relacionado con análisis de sistemas.",
+    "fecha_inicio":"2024-04-01",
+    "fecha_fin_estimada":"2025-08-29",
+    "empleados_asignados":[
+      "sofía.torres@empresa.com",
+      "miguel.ruiz@empresa.com",
+      "miguel.ramírez@empresa.com",
+      "pablo.ramírez@empresa.com",
+      "elena.vega@empresa.com",
+      "carlos.ruiz@empresa.com",
+      "miguel.herrera@empresa.com",
+      "sofía.herrera@empresa.com",
+      "pablo.vega@empresa.com",
+      "pablo.herrera@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy009",
+    "nombre":"Auditoría Interna #9",
+    "descripcion":"Proyecto relacionado con desarrollo de sistemas.",
+    "fecha_inicio":"2024-06-04",
+    "fecha_fin_estimada":"2025-03-24",
+    "empleados_asignados":[
+      "miguel.lópez@empresa.com",
+      "natalia.ruiz@empresa.com",
+      "pablo.ramírez@empresa.com",
+      "carlos.gómez@empresa.com",
+      "miguel.fernández@empresa.com",
+      "luis.vega@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy010",
+    "nombre":"App móvil clientes #10",
+    "descripcion":"Proyecto relacionado con implementación de sistemas.",
+    "fecha_inicio":"2024-05-12",
+    "fecha_fin_estimada":"2025-10-03",
+    "empleados_asignados":[
+      "pablo.ruiz@empresa.com",
+      "pablo.vega@empresa.com",
+      "sofía.santos@empresa.com",
+      "sofía.martínez@empresa.com",
+      "laura.martínez@empresa.com",
+      "miguel.torres@empresa.com",
+      "natalia.ruiz@empresa.com",
+      "pablo.martínez@empresa.com",
+      "miguel.fernández@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy011",
+    "nombre":"Rediseño Web #11",
+    "descripcion":"Proyecto relacionado con implementación de sistemas.",
+    "fecha_inicio":"2024-02-22",
+    "fecha_fin_estimada":"2025-06-23",
+    "empleados_asignados":[
+      "luis.lópez@empresa.com",
+      "miguel.lópez@empresa.com",
+      "miguel.torres@empresa.com",
+      "carlos.ruiz@empresa.com",
+      "sofía.torres@empresa.com",
+      "pablo.martínez@empresa.com",
+      "ana.vega@empresa.com",
+      "jorge.ramírez@empresa.com",
+      "pablo.vega@empresa.com",
+      "elena.vega@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy012",
+    "nombre":"Auditoría Interna #12",
+    "descripcion":"Proyecto relacionado con desarrollo de sistemas.",
+    "fecha_inicio":"2024-08-12",
+    "fecha_fin_estimada":"2025-12-10",
+    "empleados_asignados":[
+      "luis.lópez@empresa.com",
+      "ana.gómez@empresa.com",
+      "natalia.ruiz@empresa.com",
+      "pablo.vega@empresa.com",
+      "laura.torres@empresa.com",
+      "pablo.vega@empresa.com",
+      "carlos.ramírez@empresa.com",
+      "luis.vega@empresa.com",
+      "jorge.vega@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy013",
+    "nombre":"Sistema de Nómina #13",
+    "descripcion":"Proyecto relacionado con análisis de sistemas.",
+    "fecha_inicio":"2024-11-11",
+    "fecha_fin_estimada":"2025-09-10",
+    "empleados_asignados":[
+      "carlos.ruiz@empresa.com",
+      "jorge.vega@empresa.com",
+      "carlos.herrera@empresa.com",
+      "pablo.vega@empresa.com",
+      "sofía.torres@empresa.com",
+      "laura.torres@empresa.com",
+      "miguel.ruiz@empresa.com",
+      "pablo.martínez@empresa.com",
+      "sofía.ramírez@empresa.com",
+      "miguel.torres@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy014",
+    "nombre":"Sistema de Nómina #14",
+    "descripcion":"Proyecto relacionado con desarrollo de sistemas.",
+    "fecha_inicio":"2024-07-13",
+    "fecha_fin_estimada":"2025-12-16",
+    "empleados_asignados":[
+      "elena.ruiz@empresa.com",
+      "pablo.herrera@empresa.com",
+      "ana.vega@empresa.com",
+      "pablo.vega@empresa.com",
+      "carlos.gómez@empresa.com",
+      "carlos.fernández@empresa.com",
+      "miguel.ruiz@empresa.com",
+      "pablo.ramírez@empresa.com",
+      "miguel.gómez@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy015",
+    "nombre":"Migración a la nube #15",
+    "descripcion":"Proyecto relacionado con análisis de sistemas.",
+    "fecha_inicio":"2024-07-13",
+    "fecha_fin_estimada":"2025-12-29",
+    "empleados_asignados":[
+      "pablo.ruiz@empresa.com",
+      "pablo.herrera@empresa.com",
+      "miguel.torres@empresa.com",
+      "natalia.ruiz@empresa.com",
+      "sofía.martínez@empresa.com",
+      "pablo.vega@empresa.com",
+      "carlos.martínez@empresa.com",
+      "luis.santos@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy016",
+    "nombre":"Sistema de Inventario #16",
+    "descripcion":"Proyecto relacionado con implementación de sistemas.",
+    "fecha_inicio":"2024-07-23",
+    "fecha_fin_estimada":"2025-10-31",
+    "empleados_asignados":[
+      "miguel.herrera@empresa.com",
+      "miguel.lópez@empresa.com",
+      "ana.vega@empresa.com",
+      "carlos.ruiz@empresa.com",
+      "carlos.ramírez@empresa.com",
+      "carlos.fernández@empresa.com",
+      "miguel.gómez@empresa.com",
+      "sofía.torres@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy017",
+    "nombre":"Sistema de Inventario #17",
+    "descripcion":"Proyecto relacionado con optimización de sistemas.",
+    "fecha_inicio":"2024-11-08",
+    "fecha_fin_estimada":"2025-06-13",
+    "empleados_asignados":[
+      "carlos.martínez@empresa.com",
+      "miguel.torres@empresa.com",
+      "ana.vega@empresa.com",
+      "luis.vega@empresa.com",
+      "elena.vega@empresa.com",
+      "pablo.vega@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy018",
+    "nombre":"Rediseño Web #18",
+    "descripcion":"Proyecto relacionado con análisis de sistemas.",
+    "fecha_inicio":"2024-03-02",
+    "fecha_fin_estimada":"2025-03-23",
+    "empleados_asignados":[
+      "luis.lópez@empresa.com",
+      "elena.vega@empresa.com",
+      "laura.torres@empresa.com",
+      "carlos.gómez@empresa.com",
+      "ana.vega@empresa.com",
+      "carlos.herrera@empresa.com",
+      "carlos.ramírez@empresa.com",
+      "pablo.herrera@empresa.com",
+      "miguel.martínez@empresa.com",
+      "luis.herrera@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy019",
+    "nombre":"Sistema CRM #19",
+    "descripcion":"Proyecto relacionado con análisis de sistemas.",
+    "fecha_inicio":"2024-02-25",
+    "fecha_fin_estimada":"2025-01-04",
+    "empleados_asignados":[
+      "miguel.ramírez@empresa.com",
+      "carlos.ramírez@empresa.com",
+      "sofía.torres@empresa.com",
+      "luis.lópez@empresa.com",
+      "pablo.ramírez@empresa.com",
+      "elena.fernández@empresa.com",
+      "carlos.gómez@empresa.com",
+      "carlos.lópez@empresa.com",
+      "sofía.santos@empresa.com",
+      "miguel.lópez@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy020",
+    "nombre":"Rediseño Web #20",
+    "descripcion":"Proyecto relacionado con optimización de sistemas.",
+    "fecha_inicio":"2024-03-19",
+    "fecha_fin_estimada":"2025-12-29",
+    "empleados_asignados":[
+      "ana.vega@empresa.com",
+      "ana.gómez@empresa.com",
+      "carlos.fernández@empresa.com",
+      "carlos.lópez@empresa.com",
+      "carlos.ramírez@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy021",
+    "nombre":"Plataforma e-learning #21",
+    "descripcion":"Proyecto relacionado con desarrollo de sistemas.",
+    "fecha_inicio":"2024-10-09",
+    "fecha_fin_estimada":"2025-03-12",
+    "empleados_asignados":[
+      "luis.lópez@empresa.com",
+      "carlos.ramírez@empresa.com",
+      "sofía.herrera@empresa.com",
+      "laura.martínez@empresa.com",
+      "sofía.ramírez@empresa.com",
+      "miguel.lópez@empresa.com",
+      "carlos.lópez@empresa.com",
+      "miguel.fernández@empresa.com",
+      "sofía.ramírez@empresa.com",
+      "pablo.vega@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy022",
+    "nombre":"App móvil clientes #22",
+    "descripcion":"Proyecto relacionado con desarrollo de sistemas.",
+    "fecha_inicio":"2024-08-09",
+    "fecha_fin_estimada":"2025-11-03",
+    "empleados_asignados":[
+      "carlos.ramírez@empresa.com",
+      "luis.santos@empresa.com",
+      "pablo.ramírez@empresa.com",
+      "ana.vega@empresa.com",
+      "miguel.gómez@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy023",
+    "nombre":"Auditoría Interna #23",
+    "descripcion":"Proyecto relacionado con análisis de sistemas.",
+    "fecha_inicio":"2024-09-17",
+    "fecha_fin_estimada":"2025-04-04",
+    "empleados_asignados":[
+      "miguel.fernández@empresa.com",
+      "sofía.herrera@empresa.com",
+      "carlos.martínez@empresa.com",
+      "miguel.lópez@empresa.com",
+      "miguel.ruiz@empresa.com",
+      "carlos.herrera@empresa.com",
+      "luis.santos@empresa.com",
+      "elena.ruiz@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy024",
+    "nombre":"Mejora SEO #24",
+    "descripcion":"Proyecto relacionado con implementación de sistemas.",
+    "fecha_inicio":"2024-09-20",
+    "fecha_fin_estimada":"2025-05-17",
+    "empleados_asignados":[
+      "miguel.martínez@empresa.com",
+      "pablo.herrera@empresa.com",
+      "jorge.ramírez@empresa.com",
+      "pablo.vega@empresa.com",
+      "pablo.ruiz@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy025",
+    "nombre":"Migración a la nube #25",
+    "descripcion":"Proyecto relacionado con desarrollo de sistemas.",
+    "fecha_inicio":"2024-10-12",
+    "fecha_fin_estimada":"2025-09-23",
+    "empleados_asignados":[
+      "sofía.santos@empresa.com",
+      "miguel.lópez@empresa.com",
+      "sofía.herrera@empresa.com",
+      "laura.martínez@empresa.com",
+      "miguel.ruiz@empresa.com",
+      "elena.ruiz@empresa.com",
+      "pablo.vega@empresa.com",
+      "miguel.martínez@empresa.com",
+      "pablo.martínez@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy026",
+    "nombre":"Intranet Corporativa #26",
+    "descripcion":"Proyecto relacionado con implementación de sistemas.",
+    "fecha_inicio":"2024-10-19",
+    "fecha_fin_estimada":"2025-12-08",
+    "empleados_asignados":[
+      "elena.vega@empresa.com",
+      "miguel.ruiz@empresa.com",
+      "laura.torres@empresa.com",
+      "sofía.martínez@empresa.com",
+      "carlos.martínez@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy027",
+    "nombre":"Plataforma e-learning #27",
+    "descripcion":"Proyecto relacionado con desarrollo de sistemas.",
+    "fecha_inicio":"2024-06-18",
+    "fecha_fin_estimada":"2025-02-20",
+    "empleados_asignados":[
+      "miguel.ruiz@empresa.com",
+      "elena.ruiz@empresa.com",
+      "carlos.ramírez@empresa.com",
+      "luis.herrera@empresa.com",
+      "laura.torres@empresa.com",
+      "carlos.fernández@empresa.com",
+      "luis.santos@empresa.com",
+      "luis.vega@empresa.com",
+      "carlos.herrera@empresa.com",
+      "carlos.ramírez@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy028",
+    "nombre":"Mejora SEO #28",
+    "descripcion":"Proyecto relacionado con optimización de sistemas.",
+    "fecha_inicio":"2024-09-08",
+    "fecha_fin_estimada":"2025-05-15",
+    "empleados_asignados":[
+      "carlos.fernández@empresa.com",
+      "pablo.ruiz@empresa.com",
+      "pablo.vega@empresa.com",
+      "miguel.martínez@empresa.com",
+      "elena.fernández@empresa.com",
+      "miguel.herrera@empresa.com",
+      "miguel.lópez@empresa.com",
+      "sofía.torres@empresa.com",
+      "miguel.torres@empresa.com",
+      "miguel.gómez@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy029",
+    "nombre":"Plataforma e-learning #29",
+    "descripcion":"Proyecto relacionado con implementación de sistemas.",
+    "fecha_inicio":"2024-11-29",
+    "fecha_fin_estimada":"2025-08-26",
+    "empleados_asignados":[
+      "luis.santos@empresa.com",
+      "jorge.vega@empresa.com",
+      "sofía.ramírez@empresa.com",
+      "miguel.gómez@empresa.com",
+      "elena.vega@empresa.com",
+      "carlos.martínez@empresa.com",
+      "sofía.ramírez@empresa.com",
+      "laura.torres@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy030",
+    "nombre":"Plataforma e-learning #30",
+    "descripcion":"Proyecto relacionado con desarrollo de sistemas.",
+    "fecha_inicio":"2024-08-21",
+    "fecha_fin_estimada":"2025-08-26",
+    "empleados_asignados":[
+      "sofía.torres@empresa.com",
+      "sofía.santos@empresa.com",
+      "sofía.herrera@empresa.com",
+      "natalia.ruiz@empresa.com",
+      "miguel.ruiz@empresa.com",
+      "luis.lópez@empresa.com",
+      "elena.vega@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy031",
+    "nombre":"Auditoría Interna #31",
+    "descripcion":"Proyecto relacionado con análisis de sistemas.",
+    "fecha_inicio":"2024-09-01",
+    "fecha_fin_estimada":"2025-08-21",
+    "empleados_asignados":[
+      "sofía.santos@empresa.com",
+      "carlos.fernández@empresa.com",
+      "luis.lópez@empresa.com",
+      "pablo.herrera@empresa.com",
+      "sofía.martínez@empresa.com",
+      "ana.vega@empresa.com",
+      "miguel.torres@empresa.com",
+      "pablo.ruiz@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy032",
+    "nombre":"Mejora SEO #32",
+    "descripcion":"Proyecto relacionado con optimización de sistemas.",
+    "fecha_inicio":"2024-01-03",
+    "fecha_fin_estimada":"2025-12-16",
+    "empleados_asignados":[
+      "sofía.santos@empresa.com",
+      "sofía.torres@empresa.com",
+      "ana.vega@empresa.com",
+      "elena.ruiz@empresa.com",
+      "carlos.ramírez@empresa.com",
+      "elena.fernández@empresa.com",
+      "ana.gómez@empresa.com",
+      "miguel.ruiz@empresa.com",
+      "carlos.lópez@empresa.com",
+      "laura.torres@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy033",
+    "nombre":"Migración a la nube #33",
+    "descripcion":"Proyecto relacionado con análisis de sistemas.",
+    "fecha_inicio":"2024-11-16",
+    "fecha_fin_estimada":"2025-03-09",
+    "empleados_asignados":[
+      "miguel.fernández@empresa.com",
+      "sofía.ramírez@empresa.com",
+      "miguel.lópez@empresa.com",
+      "carlos.lópez@empresa.com",
+      "luis.lópez@empresa.com",
+      "miguel.ruiz@empresa.com",
+      "carlos.martínez@empresa.com",
+      "elena.ruiz@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy034",
+    "nombre":"Intranet Corporativa #34",
+    "descripcion":"Proyecto relacionado con implementación de sistemas.",
+    "fecha_inicio":"2024-06-11",
+    "fecha_fin_estimada":"2025-06-26",
+    "empleados_asignados":[
+      "luis.herrera@empresa.com",
+      "miguel.fernández@empresa.com",
+      "elena.vega@empresa.com",
+      "pablo.vega@empresa.com",
+      "miguel.torres@empresa.com",
+      "sofía.ramírez@empresa.com",
+      "luis.lópez@empresa.com",
+      "ana.gómez@empresa.com",
+      "ana.vega@empresa.com",
+      "miguel.herrera@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy035",
+    "nombre":"Plataforma e-learning #35",
+    "descripcion":"Proyecto relacionado con optimización de sistemas.",
+    "fecha_inicio":"2024-01-22",
+    "fecha_fin_estimada":"2025-07-11",
+    "empleados_asignados":[
+      "miguel.gómez@empresa.com",
+      "miguel.torres@empresa.com",
+      "ana.vega@empresa.com",
+      "carlos.fernández@empresa.com",
+      "carlos.ramírez@empresa.com",
+      "elena.ruiz@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy036",
+    "nombre":"App móvil clientes #36",
+    "descripcion":"Proyecto relacionado con optimización de sistemas.",
+    "fecha_inicio":"2024-07-12",
+    "fecha_fin_estimada":"2025-12-11",
+    "empleados_asignados":[
+      "miguel.gómez@empresa.com",
+      "sofía.ramírez@empresa.com",
+      "sofía.torres@empresa.com",
+      "ana.gómez@empresa.com",
+      "miguel.martínez@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy037",
+    "nombre":"Intranet Corporativa #37",
+    "descripcion":"Proyecto relacionado con implementación de sistemas.",
+    "fecha_inicio":"2024-07-12",
+    "fecha_fin_estimada":"2025-03-17",
+    "empleados_asignados":[
+      "carlos.herrera@empresa.com",
+      "elena.ruiz@empresa.com",
+      "carlos.ruiz@empresa.com",
+      "carlos.ramírez@empresa.com",
+      "pablo.vega@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy038",
+    "nombre":"Plataforma e-learning #38",
+    "descripcion":"Proyecto relacionado con implementación de sistemas.",
+    "fecha_inicio":"2024-07-30",
+    "fecha_fin_estimada":"2025-03-31",
+    "empleados_asignados":[
+      "sofía.santos@empresa.com",
+      "carlos.ramírez@empresa.com",
+      "sofía.ramírez@empresa.com",
+      "luis.santos@empresa.com",
+      "sofía.martínez@empresa.com",
+      "ana.gómez@empresa.com",
+      "miguel.torres@empresa.com",
+      "miguel.lópez@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy039",
+    "nombre":"Auditoría Interna #39",
+    "descripcion":"Proyecto relacionado con análisis de sistemas.",
+    "fecha_inicio":"2024-06-11",
+    "fecha_fin_estimada":"2025-10-17",
+    "empleados_asignados":[
+      "miguel.lópez@empresa.com",
+      "miguel.ruiz@empresa.com",
+      "luis.santos@empresa.com",
+      "sofía.martínez@empresa.com",
+      "pablo.ramírez@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy040",
+    "nombre":"Intranet Corporativa #40",
+    "descripcion":"Proyecto relacionado con implementación de sistemas.",
+    "fecha_inicio":"2024-08-28",
+    "fecha_fin_estimada":"2025-04-23",
+    "empleados_asignados":[
+      "natalia.ruiz@empresa.com",
+      "miguel.lópez@empresa.com",
+      "miguel.lópez@empresa.com",
+      "carlos.ramírez@empresa.com",
+      "jorge.vega@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy041",
+    "nombre":"Auditoría Interna #41",
+    "descripcion":"Proyecto relacionado con optimización de sistemas.",
+    "fecha_inicio":"2024-01-04",
+    "fecha_fin_estimada":"2025-08-12",
+    "empleados_asignados":[
+      "carlos.martínez@empresa.com",
+      "sofía.martínez@empresa.com",
+      "ana.gómez@empresa.com",
+      "miguel.torres@empresa.com",
+      "sofía.ramírez@empresa.com",
+      "luis.vega@empresa.com",
+      "elena.ruiz@empresa.com",
+      "miguel.ramírez@empresa.com",
+      "miguel.torres@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy042",
+    "nombre":"Sistema de Inventario #42",
+    "descripcion":"Proyecto relacionado con desarrollo de sistemas.",
+    "fecha_inicio":"2024-11-18",
+    "fecha_fin_estimada":"2025-05-03",
+    "empleados_asignados":[
+      "carlos.gómez@empresa.com",
+      "sofía.martínez@empresa.com",
+      "carlos.herrera@empresa.com",
+      "elena.ruiz@empresa.com",
+      "natalia.ruiz@empresa.com",
+      "pablo.ruiz@empresa.com",
+      "pablo.martínez@empresa.com",
+      "miguel.herrera@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy043",
+    "nombre":"Rediseño Web #43",
+    "descripcion":"Proyecto relacionado con optimización de sistemas.",
+    "fecha_inicio":"2024-06-09",
+    "fecha_fin_estimada":"2025-01-21",
+    "empleados_asignados":[
+      "carlos.herrera@empresa.com",
+      "jorge.vega@empresa.com",
+      "miguel.ramírez@empresa.com",
+      "carlos.lópez@empresa.com",
+      "elena.vega@empresa.com",
+      "pablo.vega@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy044",
+    "nombre":"Sistema CRM #44",
+    "descripcion":"Proyecto relacionado con implementación de sistemas.",
+    "fecha_inicio":"2024-08-07",
+    "fecha_fin_estimada":"2025-04-15",
+    "empleados_asignados":[
+      "miguel.torres@empresa.com",
+      "sofía.torres@empresa.com",
+      "carlos.gómez@empresa.com",
+      "ana.vega@empresa.com",
+      "miguel.martínez@empresa.com",
+      "miguel.herrera@empresa.com",
+      "miguel.ruiz@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy045",
+    "nombre":"Sistema de Inventario #45",
+    "descripcion":"Proyecto relacionado con implementación de sistemas.",
+    "fecha_inicio":"2024-07-26",
+    "fecha_fin_estimada":"2025-11-30",
+    "empleados_asignados":[
+      "pablo.ruiz@empresa.com",
+      "pablo.ramírez@empresa.com",
+      "sofía.ramírez@empresa.com",
+      "jorge.ramírez@empresa.com",
+      "carlos.herrera@empresa.com",
+      "pablo.vega@empresa.com",
+      "ana.vega@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy046",
+    "nombre":"Rediseño Web #46",
+    "descripcion":"Proyecto relacionado con optimización de sistemas.",
+    "fecha_inicio":"2024-08-14",
+    "fecha_fin_estimada":"2025-10-10",
+    "empleados_asignados":[
+      "sofía.martínez@empresa.com",
+      "jorge.vega@empresa.com",
+      "pablo.vega@empresa.com",
+      "carlos.ramírez@empresa.com",
+      "luis.lópez@empresa.com",
+      "ana.vega@empresa.com",
+      "laura.martínez@empresa.com",
+      "luis.vega@empresa.com",
+      "luis.santos@empresa.com",
+      "carlos.martínez@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy047",
+    "nombre":"Rediseño Web #47",
+    "descripcion":"Proyecto relacionado con optimización de sistemas.",
+    "fecha_inicio":"2024-07-02",
+    "fecha_fin_estimada":"2025-11-13",
+    "empleados_asignados":[
+      "elena.fernández@empresa.com",
+      "ana.vega@empresa.com",
+      "laura.martínez@empresa.com",
+      "miguel.fernández@empresa.com",
+      "carlos.fernández@empresa.com",
+      "luis.lópez@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy048",
+    "nombre":"Sistema de Inventario #48",
+    "descripcion":"Proyecto relacionado con análisis de sistemas.",
+    "fecha_inicio":"2024-03-13",
+    "fecha_fin_estimada":"2025-08-30",
+    "empleados_asignados":[
+      "miguel.ruiz@empresa.com",
+      "natalia.ruiz@empresa.com",
+      "carlos.herrera@empresa.com",
+      "miguel.ramírez@empresa.com",
+      "pablo.ramírez@empresa.com",
+      "carlos.herrera@empresa.com",
+      "miguel.ruiz@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy049",
+    "nombre":"App móvil clientes #49",
+    "descripcion":"Proyecto relacionado con optimización de sistemas.",
+    "fecha_inicio":"2024-03-22",
+    "fecha_fin_estimada":"2025-02-04",
+    "empleados_asignados":[
+      "jorge.vega@empresa.com",
+      "miguel.fernández@empresa.com",
+      "pablo.martínez@empresa.com",
+      "miguel.lópez@empresa.com",
+      "carlos.gómez@empresa.com",
+      "pablo.ramírez@empresa.com",
+      "ana.vega@empresa.com",
+      "pablo.ruiz@empresa.com",
+      "carlos.herrera@empresa.com"
+    ]
+  },
+  {
+    "_id":"proy050",
+    "nombre":"App móvil clientes #50",
+    "descripcion":"Proyecto relacionado con implementación de sistemas.",
+    "fecha_inicio":"2024-05-10",
+    "fecha_fin_estimada":"2025-12-07",
+    "empleados_asignados":[
+      "elena.ruiz@empresa.com",
+      "miguel.torres@empresa.com",
+      "ana.gómez@empresa.com",
+      "carlos.gómez@empresa.com",
+      "carlos.herrera@empresa.com",
+      "elena.ruiz@empresa.com",
+      "carlos.ramírez@empresa.com",
+      "elena.fernández@empresa.com"
+    ]
+  }
+]

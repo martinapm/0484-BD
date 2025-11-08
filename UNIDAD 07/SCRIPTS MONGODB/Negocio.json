@@ -1,0 +1,44 @@
+[
+  {
+   "nombre":"Raúl Cervantes",
+   "profesion":"Programador",
+   "edad":35,
+   "lenguajes":["PHP","Javascript"],
+   "disponibilidadParaViajar":true,
+   "rangoProfesional": {
+     "aniosDeExperiencia": 12,
+     "nivel": "Senior"
+    }
+ },
+ {
+   "nombre":"Luis Boscoso",
+   "profesion":"Programador",
+   "edad":25,
+   "lenguajes":["Java","C#"],
+   "disponibilidadParaViajar":false,
+   "rangoProfesional": {
+      "aniosDeExperiencia": 3,
+      "nivel": "Junior"
+   }
+ },
+ {
+   "nombre":"Beatriz Molina",
+   "profesion":"Team Leader",
+   "edad":42,
+   "idiomas":["Ingles","Frances","Aleman"],
+   "disponibilidadParaViajar":true,
+   "rangoProfesional": {
+     "aniosDeExperiencia": 14
+   }
+ },
+ {
+   "nombre":"Julia Fuentes",
+   "profesion":"Administrativo",
+   "edad":27,
+   "idiomas":["Ingles"],
+   "rangoProfesional": {
+     "aniosDeExperiencia": 2,
+     "nivel": "Junior"
+   }
+ }
+]
