@@ -72,6 +72,7 @@ El repositorio incluye los materiales y prácticas correspondientes a las siguie
 ## 📂 Estructura del Proyecto
 
 ```plaintext
+
 ├── Unidad_03/
 │   ├── MER/
 │   └── Scripts_MySQL/
@@ -82,6 +83,7 @@ El repositorio incluye los materiales y prácticas correspondientes a las siguie
 │   └── Schema_MariaDB/
 └── Unidad_07/
     └── Consultas_MongoDB/
+
 ```
 
 ---
