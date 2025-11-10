@@ -1,0 +1,30 @@
+# ARCHIVOS SENSIBLES
+.env
+.env.local
+*.key
+*.pem
+
+# DEPENDENCIAS
+node_modules/
+vendor/
+
+# ARCHIVOS DEL SISTEMA
+.DS_Store
+Thumbs.db
+*.log
+
+# CARPETAS TEMPORALES
+tmp/
+temp/
+cache/
+uploads/
+
+# CONFIGURACIONES DE IDE
+.idea/
+.vscode/
+
+# ARCHIVOS DE SESIÓN PHP
+sess_*
+
+# CACHE
+*.cache

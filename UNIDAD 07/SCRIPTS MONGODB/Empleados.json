@@ -1,0 +1,502 @@
+[
+  {
+    "nombre":"Sofía Ramírez",
+    "edad":46,
+    "puesto":"Desarrollador\/a",
+    "departamento":"Operaciones",
+    "fecha_ingreso":"2018-03-09",
+    "salario":38450,
+    "email":"sofía.ramírez@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Miguel López",
+    "edad":25,
+    "puesto":"Diseñador\/a UX\/UI",
+    "departamento":"Tecnología",
+    "fecha_ingreso":"2023-09-29",
+    "salario":55252,
+    "email":"miguel.lópez@empresa.com",
+    "activo":false
+  },
+  {
+    "nombre":"Carlos Ramírez",
+    "edad":43,
+    "puesto":"Diseñador\/a UX\/UI",
+    "departamento":"Marketing",
+    "fecha_ingreso":"2018-01-09",
+    "salario":61364,
+    "email":"carlos.ramírez@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Miguel Gómez",
+    "edad":41,
+    "puesto":"Diseñador\/a UX\/UI",
+    "departamento":"Operaciones",
+    "fecha_ingreso":"2024-11-22",
+    "salario":56910,
+    "email":"miguel.gómez@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Pablo Vega",
+    "edad":42,
+    "puesto":"Diseñador\/a UX\/UI",
+    "departamento":"Administración",
+    "fecha_ingreso":"2022-02-05",
+    "salario":42941,
+    "email":"pablo.vega@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Miguel Fernández",
+    "edad":55,
+    "puesto":"Diseñador\/a UX\/UI",
+    "departamento":"Administración",
+    "fecha_ingreso":"2022-01-23",
+    "salario":57119,
+    "email":"miguel.fernández@empresa.com",
+    "activo":false
+  },
+  {
+    "nombre":"Carlos Ruiz",
+    "edad":27,
+    "puesto":"Analista Financiero\/a",
+    "departamento":"Finanzas",
+    "fecha_ingreso":"2020-02-17",
+    "salario":62458,
+    "email":"carlos.ruiz@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Miguel López",
+    "edad":34,
+    "puesto":"Desarrollador\/a",
+    "departamento":"Tecnología",
+    "fecha_ingreso":"2023-07-04",
+    "salario":42631,
+    "email":"miguel.lópez@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Carlos Herrera",
+    "edad":31,
+    "puesto":"Diseñador\/a UX\/UI",
+    "departamento":"Marketing",
+    "fecha_ingreso":"2021-11-18",
+    "salario":51988,
+    "email":"carlos.herrera@empresa.com",
+    "activo":false
+  },
+  {
+    "nombre":"Miguel Ruiz",
+    "edad":36,
+    "puesto":"Asistente Administrativo\/a",
+    "departamento":"Tecnología",
+    "fecha_ingreso":"2024-12-04",
+    "salario":33795,
+    "email":"miguel.ruiz@empresa.com",
+    "activo":false
+  },
+  {
+    "nombre":"Pablo Vega",
+    "edad":48,
+    "puesto":"Desarrollador\/a",
+    "departamento":"Finanzas",
+    "fecha_ingreso":"2023-10-21",
+    "salario":68220,
+    "email":"pablo.vega@empresa.com",
+    "activo":false
+  },
+  {
+    "nombre":"Sofía Ramírez",
+    "edad":55,
+    "puesto":"Analista Financiero\/a",
+    "departamento":"Tecnología",
+    "fecha_ingreso":"2020-10-09",
+    "salario":37745,
+    "email":"sofía.ramírez@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Pablo Herrera",
+    "edad":29,
+    "puesto":"Gerente de Proyectos",
+    "departamento":"Finanzas",
+    "fecha_ingreso":"2021-02-20",
+    "salario":44483,
+    "email":"pablo.herrera@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Miguel Ruiz",
+    "edad":52,
+    "puesto":"Diseñador\/a UX\/UI",
+    "departamento":"Administración",
+    "fecha_ingreso":"2023-01-03",
+    "salario":31432,
+    "email":"miguel.ruiz@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Jorge Vega",
+    "edad":32,
+    "puesto":"Diseñador\/a UX\/UI",
+    "departamento":"Tecnología",
+    "fecha_ingreso":"2020-11-17",
+    "salario":42799,
+    "email":"jorge.vega@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Pablo Vega",
+    "edad":42,
+    "puesto":"Gerente de Proyectos",
+    "departamento":"Administración",
+    "fecha_ingreso":"2018-12-08",
+    "salario":45902,
+    "email":"pablo.vega@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Ana Vega",
+    "edad":49,
+    "puesto":"Analista Financiero\/a",
+    "departamento":"Marketing",
+    "fecha_ingreso":"2018-07-15",
+    "salario":63027,
+    "email":"ana.vega@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Carlos Fernández",
+    "edad":34,
+    "puesto":"Diseñador\/a UX\/UI",
+    "departamento":"Tecnología",
+    "fecha_ingreso":"2019-08-03",
+    "salario":52636,
+    "email":"carlos.fernández@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Elena Ruiz",
+    "edad":49,
+    "puesto":"Analista Financiero\/a",
+    "departamento":"Finanzas",
+    "fecha_ingreso":"2024-02-13",
+    "salario":62879,
+    "email":"elena.ruiz@empresa.com",
+    "activo":false
+  },
+  {
+    "nombre":"Carlos Herrera",
+    "edad":36,
+    "puesto":"Desarrollador\/a",
+    "departamento":"Finanzas",
+    "fecha_ingreso":"2018-08-10",
+    "salario":33456,
+    "email":"carlos.herrera@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Elena Ruiz",
+    "edad":54,
+    "puesto":"Analista Financiero\/a",
+    "departamento":"Administración",
+    "fecha_ingreso":"2018-07-25",
+    "salario":57990,
+    "email":"elena.ruiz@empresa.com",
+    "activo":false
+  },
+  {
+    "nombre":"Laura Torres",
+    "edad":49,
+    "puesto":"Analista Financiero\/a",
+    "departamento":"Operaciones",
+    "fecha_ingreso":"2022-07-25",
+    "salario":54902,
+    "email":"laura.torres@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Luis Vega",
+    "edad":44,
+    "puesto":"Asistente Administrativo\/a",
+    "departamento":"Operaciones",
+    "fecha_ingreso":"2019-03-18",
+    "salario":40373,
+    "email":"luis.vega@empresa.com",
+    "activo":false
+  },
+  {
+    "nombre":"Carlos Ramírez",
+    "edad":40,
+    "puesto":"Gerente de Proyectos",
+    "departamento":"Finanzas",
+    "fecha_ingreso":"2019-01-30",
+    "salario":32227,
+    "email":"carlos.ramírez@empresa.com",
+    "activo":false
+  },
+  {
+    "nombre":"Sofía Santos",
+    "edad":51,
+    "puesto":"Desarrollador\/a",
+    "departamento":"Finanzas",
+    "fecha_ingreso":"2019-01-28",
+    "salario":58187,
+    "email":"sofía.santos@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Miguel Herrera",
+    "edad":45,
+    "puesto":"Desarrollador\/a",
+    "departamento":"Marketing",
+    "fecha_ingreso":"2018-04-16",
+    "salario":68390,
+    "email":"miguel.herrera@empresa.com",
+    "activo":false
+  },
+  {
+    "nombre":"Carlos López",
+    "edad":47,
+    "puesto":"Analista Financiero\/a",
+    "departamento":"Tecnología",
+    "fecha_ingreso":"2024-03-09",
+    "salario":51432,
+    "email":"carlos.lópez@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Miguel Torres",
+    "edad":42,
+    "puesto":"Desarrollador\/a",
+    "departamento":"Marketing",
+    "fecha_ingreso":"2024-07-01",
+    "salario":31876,
+    "email":"miguel.torres@empresa.com",
+    "activo":false
+  },
+  {
+    "nombre":"Pablo Martínez",
+    "edad":55,
+    "puesto":"Analista Financiero\/a",
+    "departamento":"Operaciones",
+    "fecha_ingreso":"2019-07-13",
+    "salario":42797,
+    "email":"pablo.martínez@empresa.com",
+    "activo":false
+  },
+  {
+    "nombre":"Sofía Torres",
+    "edad":38,
+    "puesto":"Asistente Administrativo\/a",
+    "departamento":"Operaciones",
+    "fecha_ingreso":"2020-08-21",
+    "salario":38378,
+    "email":"sofía.torres@empresa.com",
+    "activo":false
+  },
+  {
+    "nombre":"Miguel Martínez",
+    "edad":54,
+    "puesto":"Asistente Administrativo\/a",
+    "departamento":"Operaciones",
+    "fecha_ingreso":"2021-09-19",
+    "salario":37724,
+    "email":"miguel.martínez@empresa.com",
+    "activo":false
+  },
+  {
+    "nombre":"Luis López",
+    "edad":53,
+    "puesto":"Diseñador\/a UX\/UI",
+    "departamento":"Administración",
+    "fecha_ingreso":"2018-10-02",
+    "salario":51252,
+    "email":"luis.lópez@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Elena Fernández",
+    "edad":28,
+    "puesto":"Analista Financiero\/a",
+    "departamento":"Tecnología",
+    "fecha_ingreso":"2024-06-20",
+    "salario":36460,
+    "email":"elena.fernández@empresa.com",
+    "activo":false
+  },
+  {
+    "nombre":"Jorge Ramírez",
+    "edad":39,
+    "puesto":"Asistente Administrativo\/a",
+    "departamento":"Tecnología",
+    "fecha_ingreso":"2023-05-30",
+    "salario":30007,
+    "email":"jorge.ramírez@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Elena Vega",
+    "edad":55,
+    "puesto":"Asistente Administrativo\/a",
+    "departamento":"Operaciones",
+    "fecha_ingreso":"2022-04-20",
+    "salario":33748,
+    "email":"elena.vega@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Miguel Ramírez",
+    "edad":50,
+    "puesto":"Analista Financiero\/a",
+    "departamento":"Operaciones",
+    "fecha_ingreso":"2021-07-17",
+    "salario":33295,
+    "email":"miguel.ramírez@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Sofía Martínez",
+    "edad":42,
+    "puesto":"Asistente Administrativo\/a",
+    "departamento":"Finanzas",
+    "fecha_ingreso":"2022-01-09",
+    "salario":37753,
+    "email":"sofía.martínez@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Carlos Martínez",
+    "edad":55,
+    "puesto":"Desarrollador\/a",
+    "departamento":"Marketing",
+    "fecha_ingreso":"2022-04-06",
+    "salario":53371,
+    "email":"carlos.martínez@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Luis Herrera",
+    "edad":40,
+    "puesto":"Analista Financiero\/a",
+    "departamento":"Marketing",
+    "fecha_ingreso":"2018-12-09",
+    "salario":45214,
+    "email":"luis.herrera@empresa.com",
+    "activo":false
+  },
+  {
+    "nombre":"Natalia Ruiz",
+    "edad":41,
+    "puesto":"Diseñador\/a UX\/UI",
+    "departamento":"Tecnología",
+    "fecha_ingreso":"2022-04-08",
+    "salario":34986,
+    "email":"natalia.ruiz@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Pablo Ramírez",
+    "edad":36,
+    "puesto":"Diseñador\/a UX\/UI",
+    "departamento":"Finanzas",
+    "fecha_ingreso":"2023-04-16",
+    "salario":40315,
+    "email":"pablo.ramírez@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Miguel Torres",
+    "edad":37,
+    "puesto":"Asistente Administrativo\/a",
+    "departamento":"Tecnología",
+    "fecha_ingreso":"2023-02-18",
+    "salario":38730,
+    "email":"miguel.torres@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Ana Vega",
+    "edad":37,
+    "puesto":"Analista Financiero\/a",
+    "departamento":"Tecnología",
+    "fecha_ingreso":"2023-06-19",
+    "salario":54107,
+    "email":"ana.vega@empresa.com",
+    "activo":false
+  },
+  {
+    "nombre":"Carlos Ramírez",
+    "edad":46,
+    "puesto":"Desarrollador\/a",
+    "departamento":"Finanzas",
+    "fecha_ingreso":"2022-09-17",
+    "salario":60999,
+    "email":"carlos.ramírez@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Luis Santos",
+    "edad":41,
+    "puesto":"Diseñador\/a UX\/UI",
+    "departamento":"Finanzas",
+    "fecha_ingreso":"2019-06-04",
+    "salario":47509,
+    "email":"luis.santos@empresa.com",
+    "activo":false
+  },
+  {
+    "nombre":"Ana Gómez",
+    "edad":33,
+    "puesto":"Asistente Administrativo\/a",
+    "departamento":"Tecnología",
+    "fecha_ingreso":"2019-04-13",
+    "salario":67063,
+    "email":"ana.gómez@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Laura Martínez",
+    "edad":43,
+    "puesto":"Asistente Administrativo\/a",
+    "departamento":"Finanzas",
+    "fecha_ingreso":"2020-08-06",
+    "salario":40694,
+    "email":"laura.martínez@empresa.com",
+    "activo":false
+  },
+  {
+    "nombre":"Sofía Herrera",
+    "edad":30,
+    "puesto":"Gerente de Proyectos",
+    "departamento":"Finanzas",
+    "fecha_ingreso":"2020-02-01",
+    "salario":59372,
+    "email":"sofía.herrera@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Carlos Gómez",
+    "edad":37,
+    "puesto":"Diseñador\/a UX\/UI",
+    "departamento":"Tecnología",
+    "fecha_ingreso":"2022-08-02",
+    "salario":47695,
+    "email":"carlos.gómez@empresa.com",
+    "activo":true
+  },
+  {
+    "nombre":"Pablo Ruiz",
+    "edad":44,
+    "puesto":"Analista Financiero\/a",
+    "departamento":"Finanzas",
+    "fecha_ingreso":"2018-10-08",
+    "salario":61207,
+    "email":"pablo.ruiz@empresa.com",
+    "activo":false
+  }
+]
